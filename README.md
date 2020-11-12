@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![My github stats](https://github-readme-stats.vercel.app/api?username=nikolausliu "nikolausliu's github stats")](https://github.com/nikolausliu/github-readme-stats)
+
 <!--
 **nikolausliu/nikolausliu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
