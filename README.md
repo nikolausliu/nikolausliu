@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-- [我的博客](https://nikolausliu.top)
-- [我的掘金](https://juejin.cn/user/4318537402555224)
-
 <!-- [![My github stats](https://github-readme-stats.vercel.app/api?username=nikolausliu "nikolausliu's github stats")](https://github.com/nikolausliu) -->
 
 <!--
